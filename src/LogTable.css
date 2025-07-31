@@ -1,0 +1,67 @@
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+max-width: 960px;
+min-width: 960px;
+position: relative;
+
+}
+.log{
+    
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(24, 30px);  /* 24 ساعة */
+    grid-template-rows: repeat(4, );  
+    max-width: 760px;
+    min-width: 760px;
+
+}
+.log-line {
+position: absolute;
+height: 1.5px;
+background-color: red;
+z-index: 10;
+}
+
+
+.cell{
+    border:1px black solid;
+    width: 30px;  
+    height: 20px; 
+}
+.timetag{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: inline-flex;
+    
+}
+.timetag .noon{
+    margin-left: 288px;
+}
+.timetag .midnight{
+    margin-left: 188px;
+    
+}
+
+.hoursgrid{
+    
+    display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 760;
+    min-width: 760;
+    margin-left: 214px;
+    gap: 20px;
+}
+.status{
+    margin-top: 5px;
+}
+.statusandlog{
+    display: inline-flex;
+}
+.log-connector {
+    position: absolute;
+    width: 2px;
+    background-color: red;
+    z-index: 10;
+    }
+

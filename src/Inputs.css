@@ -1,0 +1,308 @@
+
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Current Cycle Used (Hrs) */
+.current-cy-9266b398a1c3 {
+  position: absolute;
+  left: 542px;
+  top: 204px;
+  width: 142px;
+  height: 17px;
+}
+.current-cy-9266b398a1c3 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.current-cy-9266b398a1c3 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.current-cy-9266b398a1c3 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.current-cy-9266b398a1c3 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 14px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* MAPS API OUTPUTS */
+.m-a-p-s-a-p-i-o-9104322a007b {
+  position: absolute;
+  left: 312px;
+  top: 476px;
+  width: 241px;
+  height: 53px;
+}
+.m-a-p-s-a-p-i-o-9104322a007b .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.m-a-p-s-a-p-i-o-9104322a007b .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.m-a-p-s-a-p-i-o-9104322a007b .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.m-a-p-s-a-p-i-o-9104322a007b .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 24px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-91040c620c68 {
+  position: absolute;
+  left: 37px;
+  top: 328px;
+  width: 791px;
+  height: 391px;
+  background: #e8e9eaFF;
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* Dropoff location */
+.dropoff-lo-910387c81af2 {
+  position: absolute;
+  left: 192px;
+  top: 204px;
+  width: 113px;
+  height: 17px;
+}
+.dropoff-lo-910387c81af2 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.dropoff-lo-910387c81af2 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.dropoff-lo-910387c81af2 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.dropoff-lo-910387c81af2 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 14px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Pickup location */
+.pickup-loc-91036f270fc9 {
+  position: absolute;
+  left: 559px;
+  top: 122px;
+  width: 107px;
+  height: 17px;
+}
+.pickup-loc-91036f270fc9 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.pickup-loc-91036f270fc9 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.pickup-loc-91036f270fc9 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.pickup-loc-91036f270fc9 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 14px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Current location */
+.current-lo-9102a4bf630f {
+  position: absolute;
+  left: 196px;
+  top: 122px;
+  width: 114px;
+  height: 17px;
+}
+.current-lo-9102a4bf630f .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.current-lo-9102a4bf630f .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.current-lo-9102a4bf630f .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.current-lo-9102a4bf630f .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 14px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-9265eed531c4 {
+  position: absolute;
+  left: 113px;
+  top: 186px;
+  width: 279px;
+  height: 53px;
+  background: #829cebFF;
+  border-radius: 100px 100px 100px 100px;
+}
+
+/* Rectangle */
+.rectangle-9265e3c3c098 {
+  position: absolute;
+  left: 473px;
+  top: 186px;
+  width: 279px;
+  height: 53px;
+  background: #829cebFF;
+  border-radius: 100px 100px 100px 100px;
+}
+
+/* Rectangle */
+.rectangle-91018aaa1802 {
+  position: absolute;
+  left: 473px;
+  top: 104px;
+  width: 279px;
+  height: 53px;
+  background: #829cebFF;
+  border-radius: 100px 100px 100px 100px;
+}
+
+/* Rectangle */
+.rectangle-91012fcae6be {
+  position: absolute;
+  left: 113px;
+  top: 104px;
+  width: 279px;
+  height: 53px;
+  background: #829cebFF;
+  border-radius: 100px 100px 100px 100px;
+}
